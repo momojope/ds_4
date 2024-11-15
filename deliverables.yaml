@@ -1,0 +1,16 @@
+services:
+  v1:
+    back_end:
+      build_id: "d6d9da71-7231-445d-adbe-5cf1cf1ad9a3"
+      service_url: https://backend-v1-917104755283.us-central1.run.app
+    front_end:
+      build_id: "94fcde40-0bb8-4b88-aa5c-00831d078fdb"
+      service_url: https://frontend-v1-917104755283.us-central1.run.app
+
+  v2:
+    back_end:
+      build_id: "dc49ab26-6d3b-4a50-99c4-57b2903c284e"
+      service_url: https://backend-v2-917104755283.us-central1.run.app
+    front_end:
+      build_id: "daccbd30-fceb-4f6b-a315-22491a375075"
+      service_url: https://frontend-v2-917104755283.us-central1.run.app
